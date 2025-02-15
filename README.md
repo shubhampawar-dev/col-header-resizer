@@ -28,12 +28,12 @@ Add the required dependencies in your HTML file:
 ```
 
 ### 2️⃣ **Include Plugin Files**
-Download the `resizable-table.min.js` and `resizable-table.css` files and include them in your project:
+Download the `head-resizable.js` and `head-resizable.css` files and include them in your project:
 
 ```html
 <!-- Resizable Table Plugin -->
 <link rel="stylesheet" href="head-resizable.css">
-<script src="head-resizable.min.js"></script>
+<script src="head-resizable.js"></script>
 ```
 
 ---
@@ -98,7 +98,7 @@ Download the `resizable-table.min.js` and `resizable-table.css` files and includ
 
 ## 🎨 CSS Styling
 
-To customize the appearance, modify `resizable-table.css`:
+To customize the appearance, modify `head-resizable.css`:
 
 ```css
 .resizable-table {
@@ -146,7 +146,7 @@ To customize the appearance, modify `resizable-table.css`:
 ## 🛠️ Customization
 
 ### ✅ **Minimum Column Width**
-To change the minimum width, update the `resizable-table.min.js`:
+To change the minimum width, update the `head-resizable.js`:
 
 ```js
 if (newWidth > 50) { // Change "50" to desired minimum width
