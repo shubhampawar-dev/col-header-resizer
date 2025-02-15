@@ -1,10 +1,4 @@
-Here's a full **README.md** file with detailed usage, installation, customization, and contribution guidelines for your GitHub repository.  
 
----
-
-### 📜 **README.md** (Complete Documentation)  
-
-```md
 # jQuery Resizable Table Extension
 
 A lightweight jQuery plugin that enables column resizing for HTML tables, including support for DataTables.
