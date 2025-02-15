@@ -32,8 +32,8 @@ Download the `resizable-table.min.js` and `resizable-table.css` files and includ
 
 ```html
 <!-- Resizable Table Plugin -->
-<link rel="stylesheet" href="resizable-table.css">
-<script src="resizable-table.min.js"></script>
+<link rel="stylesheet" href="head-resizable.css">
+<script src="head-resizable.min.js"></script>
 ```
 
 ---
